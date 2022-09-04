@@ -23,7 +23,7 @@ public class MyCal {
 				case "*":System.out.print(snum*fnum);
 				break;
 			}
-			System.out.print("Final result");
+			System.out.print("Final result of calculation");
 		}
 	}
 }
